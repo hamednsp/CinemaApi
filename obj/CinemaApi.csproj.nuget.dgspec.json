@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programing\\C#\\Code\\CinemaApi\\CinemaApi.csproj": {}
+    "F:\\Hamed Naserpour\\C#Cods\\CinemaApi\\CinemaApi\\CinemaApi.csproj": {}
   },
   "projects": {
-    "D:\\Programing\\C#\\Code\\CinemaApi\\CinemaApi.csproj": {
+    "F:\\Hamed Naserpour\\C#Cods\\CinemaApi\\CinemaApi\\CinemaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programing\\C#\\Code\\CinemaApi\\CinemaApi.csproj",
+        "projectUniqueName": "F:\\Hamed Naserpour\\C#Cods\\CinemaApi\\CinemaApi\\CinemaApi.csproj",
         "projectName": "CinemaApi",
-        "projectPath": "D:\\Programing\\C#\\Code\\CinemaApi\\CinemaApi.csproj",
-        "packagesPath": "C:\\Users\\Shuriken\\.nuget\\packages\\",
-        "outputPath": "D:\\Programing\\C#\\Code\\CinemaApi\\obj\\",
+        "projectPath": "F:\\Hamed Naserpour\\C#Cods\\CinemaApi\\CinemaApi\\CinemaApi.csproj",
+        "packagesPath": "C:\\Users\\h.naserpour\\.nuget\\packages\\",
+        "outputPath": "F:\\Hamed Naserpour\\C#Cods\\CinemaApi\\CinemaApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Shuriken\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\h.naserpour\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
