@@ -21,7 +21,7 @@ namespace CinemaApi.Controllers
         {
             _dbContext = dbContext;
         }
-        [Authorize]
+        //[Authorize]
         [HttpGet("[action]")]
         public IActionResult AllMovies()
         {

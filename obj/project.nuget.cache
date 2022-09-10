@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2Aca+KT41NAWD+pmDlk4k20UASF3JsYzDEu1Tv8ZUgm7Zqgwh4JvFA8liJ/LapVncYExhimeR//4ZHm/FJ9o4A==",
+  "dgSpecHash": "yRCyhOcOw1zhZpz7u8viNE8f+SwYpvCtOFtSVkamJ5XjTNteWsvx7se0kWXGWMoHVwunyYQU4j3OdgsTnzOKHw==",
   "success": true,
   "projectFilePath": "F:\\Hamed Naserpour\\C#Cods\\CinemaApi\\CinemaApi\\CinemaApi.csproj",
   "expectedPackageFiles": [
@@ -107,7 +107,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\h.naserpour\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\h.naserpour\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
   "logs": []
 }
